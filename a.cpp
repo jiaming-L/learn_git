@@ -5,6 +5,6 @@
 
 int main(int argc, char* argv[])
 {
-    printf("%s", "Hello git!\n");
+    printf("%s", "Hello!\n");
     return 0;
 }
